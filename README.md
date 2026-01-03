@@ -1,4 +1,4 @@
-# Citron Nightly Updater
+# Citron Nightly Updater/Launcher
 
 A lightweight bash script to automate the installation, updating, and launching of Citron AppImages.
 
