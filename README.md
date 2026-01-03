@@ -1,6 +1,6 @@
-# Citron Nightly Updater/Launcher
+# Citron Nightly Linux Updater/Launcher
 
-A lightweight bash script to automate the installation, updating, and launching of Citron AppImages.
+A simple bash script to automate the installation, updating, and launching of **Citron-Nightly** x86_64 build on Linux.
 
 ## Features
 * **Version Checking:** Only downloads if a newer build is detected on GitHub.
